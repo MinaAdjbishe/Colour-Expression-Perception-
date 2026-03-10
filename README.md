@@ -55,19 +55,14 @@ Neutral faces were judged less happy on red backgrounds and slightly happier on 
 
 ---
 
-## Files  
-- **analysis.R** — full R script  
-- **raw_data.csv** — unedited Gorilla export  
-- **interaction_plot.png** — visualisation of the interaction  
-- **qqplot.png / scalelocation.png** — assumption checks  
-- **prereg_form_redacted.pdf** — pre‑registration  
-- **Colour_Expression_Report.pdf** — full report  
-- **LICENSE** — MIT License  
-- **.gitignore** — repository housekeeping  
+## Files
+- [analysis.R](analysis.R) — full R script containing data cleaning, scoring, visualisations, and mediation analysis  
+- [Colour_Expression_Report.pdf](Colour_Expressions_Report.pdf) — full written report  
+- [plots/](plots/) — folder containing all exported visualisations (scatterplots, mediation diagram, boxplots, bar charts)
+- [.gitignore](.gitignore) — keeps the repo clean  
+- [LICENSE](LICENSE) — project license  
 
----
 
-## Author  
+## Author
 Mina Adjbishe  
-London/ Nottingham, UK  
-2026
+BSc Psychology with Counselling  
