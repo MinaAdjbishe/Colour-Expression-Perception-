@@ -41,6 +41,13 @@ Participants rated faces on a 0–100 scale, and a 2 × 2 repeated‑measures AN
 
 ---
 
+## R
+I used R to clean and prepare both demographic and task data, converting variables, removing invalid responses, and collapsing trials into condition means.  
+I checked ANOVA assumptions, then ran a 2 × 2 repeated‑measures ANOVA with follow‑up simple‑effects tests and effect sizes.  
+I generated visualisations including an interaction plot and diagnostic plots to support interpretation of the results.
+
+---
+
 ## Interpretation  
 The results support cue‑integration models of emotion perception.  
 Facial expression was the dominant cue, but colour shaped ratings when the expression was ambiguous.  
