@@ -77,10 +77,5 @@ Neutral faces were judged less happy on red backgrounds and slightly happier on 
 ---
 
 ## Author
-Mina Adjbishe
-BSc Psychology with Counselling
-
-
-## Author
 Mina Adjbishe  
 BSc Psychology with Counselling  
