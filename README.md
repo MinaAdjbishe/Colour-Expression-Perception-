@@ -37,11 +37,11 @@ All plots are available in the repository and can be viewed or downloaded direct
 
 ### **Interaction Plot**
 Shows how background colour modifies the effect of facial expression on happiness ratings.  
-![Interaction Plot](interactionplot_final.png)
+![Interaction Plot](interaction_plot.png)
 
 ### **Q–Q Plot (Normality Check)**
 Assesses whether residuals follow a normal distribution.  
-![Q-Q Plot](Q-Q_Residuals.png)
+![Q-Q Plot](qqplot.png)
 
 ### **Scale–Location Plot (Homoscedasticity Check)**
 Evaluates whether residuals have equal variance across fitted values.  
