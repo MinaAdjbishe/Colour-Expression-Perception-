@@ -2,7 +2,7 @@
 
 ## Overview  
 This repository contains the R analysis for a repeated‑measures experiment investigating how **background colour** (red vs. yellow) and **facial expression** (open‑mouth smile vs. neutral)** influence perceived happiness**.  
-Participants rated faces on a 0–100 scale, and a 2 × 2 repeated‑measures ANOVA was used to test main effects and interactions.
+Participants rated faces on a 0-100 scale, and a 2 × 2 repeated‑measures ANOVA was used to test main effects and interactions.
 
 ---
 
