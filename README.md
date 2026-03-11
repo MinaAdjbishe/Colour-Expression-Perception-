@@ -32,9 +32,6 @@ Participants rated faces on a 0–100 scale, and a 2 × 2 repeated‑measures AN
 
 ## 📈 Visualisations
 
-This study produced several visualisations to support the statistical analysis.  
-All plots are available in the repository and can be viewed or downloaded directly.
-
 ### **Interaction Plot**
 Shows how background colour modifies the effect of facial expression on happiness ratings.  
 ![Interaction Plot](interaction_plot.png)
@@ -45,11 +42,11 @@ Assesses whether residuals follow a normal distribution.
 
 ### **Scale–Location Plot (Homoscedasticity Check)**
 Evaluates whether residuals have equal variance across fitted values.  
-![Scale-Location Plot](Scale-Location.png)
+![Scale–Location Plot](Scale-Location.png)
 
 ### **Age × Gender Boxplot**
 Visualises demographic age distribution across gender groups.  
-![Age-Gender Boxplot](Rboxplot.png)
+![Age–Gender Boxplot](Rboxplot.png)
 
 These visualisations support the assumption checks and help illustrate the interaction between colour and facial expression.
 
