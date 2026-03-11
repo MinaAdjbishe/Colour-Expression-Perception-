@@ -69,7 +69,7 @@ Neutral faces were judged less happy on red backgrounds and slightly happier on 
 
 ## Files
 - [analysis.R](analysis.R) — full R script containing data cleaning, scoring, visualisations, and mediation analysis  
-- [Colour_Expression_Report.pdf](Colour_Expressions_Report.pdf) — full written report  
+- [Colour_Expression_Report.pdf](Colour_Expression_Report.pdf) — full written report  
 - [plots/](plots/) — folder containing all exported visualisations (scatterplots, mediation diagram, boxplots, bar charts)
 - [.gitignore](.gitignore) — keeps the repo clean  
 - [LICENSE](LICENSE) — project license
